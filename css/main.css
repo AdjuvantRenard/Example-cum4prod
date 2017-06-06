@@ -147,3 +147,41 @@ header nav ul li a:hover{
   font-size: 20px;
   line-height: 22px;
 }
+
+/* video */
+.video{
+  text-align: center;
+  border-top: 1px #e7e7e7 solid;
+  border-bottom: 1px #e7e7e7 solid;
+  margin-bottom: 100px;
+  padding-top: 100px;
+}
+
+.video h3{
+  font-family: 'Open Sans Condensed', arial;
+  font-weight: bold;
+  font-size: 35px;
+  text-transform: uppercase;
+  color: #4d4d4d;
+  margin-bottom: 20px;
+}
+
+.video p{
+  display: inline-block;
+  width: 600px;
+  font-family: 'Open Sans Condensed', arial;
+  font-size: 20px;
+  color: #727272;
+  margin-bottom: 80px;
+  line-height: 24px;
+}
+
+.video .exvideo{
+  margin-bottom: -3px;
+}
+
+/* recent work */
+.recent_work{
+  margin-bottom: 100px;
+  overflow: hidden;
+}
